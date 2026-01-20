@@ -2,7 +2,7 @@
 
 **Last updated:** January 20, 2026
 
-MikroKPSS ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our mobile application, MikroKPSS (the "App").
+KPSS Genel Kültür Testleri BFA ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information about you when you use our mobile application, KPSS Genel Kültür Testleri BFA (the "App").
 
 By using the App, you agree to the collection and use of information in accordance with this policy. If you do not agree with this policy, please do not use the App.
 
